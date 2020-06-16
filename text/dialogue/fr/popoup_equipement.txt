@@ -1,0 +1,2 @@
+Vous avez recu un equipement !
+Ouvrez-votre inventaire avec A pour l'equiper.

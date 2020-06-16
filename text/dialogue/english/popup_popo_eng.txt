@@ -1,0 +1,2 @@
+You've been given a healing potion!
+Open your inventory with A to use it.

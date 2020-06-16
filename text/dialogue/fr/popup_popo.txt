@@ -1,0 +1,2 @@
+Vous avez recu une potion de soin !
+Ouvrez-votre inventaire avec A pour l'utiliser.
